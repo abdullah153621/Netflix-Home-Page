@@ -1,0 +1,63 @@
+.sec2{
+    background-image: linear-gradient(100deg, rgba(0, 8, 29, 0.9) 23.83%, rgba(0, 8, 29, 0.3) 96.1%), url(./images/OM-en-20230508-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-position: center;
+}
+.logo{
+    width: 140px;
+    height: 30px;
+}
+.img-logo{
+    width: 100%;
+}
+.section2{
+    margin-top: 110px;
+}
+.sec2-bold-text{
+    font-size: 60px;
+    font-weight: 800;
+}
+.sec2-text3{
+    font-weight: 600;
+}
+
+.image-size{
+    width: 40%;
+}
+.section4{
+    margin-top: 400px;
+}
+.sec4-art{
+    width: 26%;
+    height: 400px;
+    background: linear-gradient(-30deg,rgb(11, 11, 73),rgb(78, 3, 78));
+}
+.sec4-art p{
+    font-size: 17px;
+}
+.section5 button{
+    background-color: #1a294d;
+    height: 85px;
+    width: 90%;
+    margin-left: 10px;
+}
+.plus{
+    font-size: 65px;
+      
+}
+.section5 p{
+    background-color: #132144;
+    width: 90%;
+    margin-left: 10px;
+}
+.section5 button:hover{
+    background-color: #567fe76c;
+}
+.section8 div label{
+    color: rgba(170, 164, 164, 0.829);
+}
+.mob-label{
+    color: rgba(170, 164, 164, 0.829);
+}
+.sec4-mob-art{
+    background: linear-gradient(-30deg,rgb(11, 11, 73),rgb(78, 3, 78));
+}
